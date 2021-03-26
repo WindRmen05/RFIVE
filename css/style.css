@@ -329,6 +329,22 @@ background: #363d46;
 .white nav ul ul li a.active {
 background: #f8f8f8;
 }
+
+.white nav ul li .btn-content a {
+  padding:0;
+}
+
+.white nav ul {
+  display: flex;
+  align-items: center;
+}
+
+@media only screen and (max-width: 1200px) {
+  .white nav ul {
+    display: block;
+  }
+}
+
 .white nav ul ul li:last-child {
 border-bottom: none;
 }
