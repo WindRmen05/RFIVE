@@ -65,6 +65,31 @@ font-size: 16px;
 line-height: 1.6;
 letter-spacing: .3px;
 }
+
+.section-about { 
+  padding-top: 8rem !important;
+}
+
+.section-services {
+  padding-top: 8rem !important;
+  padding-bottom: 0 !important;
+}
+
+.section-projects {
+  padding-top: 8rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.section-blog {
+  padding-top: 8rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.section-gallery {
+  padding-top: 8rem !important;
+  padding-bottom: 0rem !important;
+}
+
 section {
 position: relative;
 background: #fff;
